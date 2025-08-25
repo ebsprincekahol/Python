@@ -51,7 +51,7 @@ c = "  hello welcome  "
 print(c.strip())      # 'hello welcome'
 print(c.replace(" ", ""))   # 'hellowelcome'
 
-# Q16 Replace all vowels in a string h *?
+# Q16 Replace all vowels in a string with *?
 
 text = "Hello World"
 vowels = "aeiouAEIOU"   # vowels list
