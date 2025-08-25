@@ -21,16 +21,15 @@ q=[6,5,6,7,8,9,43,1,4]
 print(q[::-1])
 
 
-# #Q 24 Find the second largest number in a list?
+#Q 24 Find the second largest number in a list?
 
 w = [1,3,6,4,9,7]
 sorted_list = sorted(w, reverse=True)
 second_largest = sorted_list[1]
 print(second_largest)
 
-# print("Second Largest:", second_largest)  # 7
     
-# # Q 25 Remove duplicates from a list?
+# Q 25 Remove duplicates from a list?
 
 l = [6,7,8,9,6,7,8,9]
 unique = list(set(l))
@@ -65,8 +64,8 @@ k=tuple(b)
 print(k)
 
 # #Q 30 Check if all elements in a list are unique?
-t=[5,6,7,8,9,4,3,2,5,7]
-t = [5, 6, 7, 8, 9, 4, 3, 2, 5, 7]
+t=[8,9]
+z = [5, 6, 7, 8, 7]
 
 if len(t) == len(set(t)):
     print("All elements are unique")

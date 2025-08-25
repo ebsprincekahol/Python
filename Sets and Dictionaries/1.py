@@ -22,9 +22,9 @@
 
 # # Q 34 Check if a set is a subset of another?
 
-a = {1, 5}
-b = {1, 2, 3, 4, 5}
-print(a.issubset(b))
+# a = {1, 2}
+# b = {1, 2, 3, 4, 5}
+# print(a.issubset(b))
 
 # # Q 35 Convert two lists into a dictionary?
 
